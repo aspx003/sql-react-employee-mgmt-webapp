@@ -4,4 +4,4 @@ Start client and server in different terminal windows.
 
 Need to have MySQL installed in order to run.
 
-Change the password, user and database in the index.js file inside the client.
+Change the password, user and database in the index.js file inside the backend.
